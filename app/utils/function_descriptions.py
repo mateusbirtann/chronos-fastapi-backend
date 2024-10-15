@@ -9,8 +9,8 @@ function_description = [
                     "type": "string",
                     "description": "O CEP a ser consultado (apenas números)"
                 }
-            }
-        },
-        "required": ["cep"]
+            },
+            "required": ["cep"]
+        }
     }
 ]
